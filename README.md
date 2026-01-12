@@ -33,7 +33,8 @@ program menampilkan beberapa menu pilihan sebagi beriku:
  ##  Screenshot Program
  <img width="644" height="469" alt="image" src="https://github.com/user-attachments/assets/95958f17-0056-4fd4-9106-335c9b7b7473" />
  <img width="665" height="405" alt="image" src="https://github.com/user-attachments/assets/d521e367-c6b4-4ae3-a941-5cc139ac454d" />
- <img width="744" height="596" alt="image" src="https://github.com/user-attachments/assets/f122de18-1429-454e-9bb5-6e6ec11a4a28" />
+ <img width="723" height="503" alt="image" src="https://github.com/user-attachments/assets/280ff8dc-d73f-403f-a2ca-0f52ec8ff283" />
+
 
 
 
